@@ -1,0 +1,17 @@
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.csproj.AssemblyReference.cache
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.Form1.resources
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.csproj.GenerateResource.cache
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.AssemblyInfoInputs.cache
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.AssemblyInfo.cs
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.csproj.CoreCompileInputs.cache
+X:\Projects\VSProjects\numberguessinggame\bin\Debug\net6.0-windows\numberguessinggame.exe
+X:\Projects\VSProjects\numberguessinggame\bin\Debug\net6.0-windows\numberguessinggame.deps.json
+X:\Projects\VSProjects\numberguessinggame\bin\Debug\net6.0-windows\numberguessinggame.runtimeconfig.json
+X:\Projects\VSProjects\numberguessinggame\bin\Debug\net6.0-windows\numberguessinggame.dll
+X:\Projects\VSProjects\numberguessinggame\bin\Debug\net6.0-windows\numberguessinggame.pdb
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.dll
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\refint\numberguessinggame.dll
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.pdb
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\numberguessinggame.genruntimeconfig.cache
+X:\Projects\VSProjects\numberguessinggame\obj\Debug\net6.0-windows\ref\numberguessinggame.dll
