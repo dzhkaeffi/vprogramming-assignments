@@ -1,0 +1,17 @@
+X:\Projects\VSProjects\factorialcalc\bin\Debug\net6.0-windows\factorialcalc.exe
+X:\Projects\VSProjects\factorialcalc\bin\Debug\net6.0-windows\factorialcalc.deps.json
+X:\Projects\VSProjects\factorialcalc\bin\Debug\net6.0-windows\factorialcalc.runtimeconfig.json
+X:\Projects\VSProjects\factorialcalc\bin\Debug\net6.0-windows\factorialcalc.dll
+X:\Projects\VSProjects\factorialcalc\bin\Debug\net6.0-windows\factorialcalc.pdb
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.csproj.AssemblyReference.cache
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.Form1.resources
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.csproj.GenerateResource.cache
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.AssemblyInfoInputs.cache
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.AssemblyInfo.cs
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.csproj.CoreCompileInputs.cache
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.dll
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\refint\factorialcalc.dll
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.pdb
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\factorialcalc.genruntimeconfig.cache
+X:\Projects\VSProjects\factorialcalc\obj\Debug\net6.0-windows\ref\factorialcalc.dll
