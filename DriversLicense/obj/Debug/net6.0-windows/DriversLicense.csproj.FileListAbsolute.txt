@@ -1,0 +1,17 @@
+X:\CODING\VSProjects\DriversLicense\bin\Debug\net6.0-windows\DriversLicense.exe
+X:\CODING\VSProjects\DriversLicense\bin\Debug\net6.0-windows\DriversLicense.deps.json
+X:\CODING\VSProjects\DriversLicense\bin\Debug\net6.0-windows\DriversLicense.runtimeconfig.json
+X:\CODING\VSProjects\DriversLicense\bin\Debug\net6.0-windows\DriversLicense.dll
+X:\CODING\VSProjects\DriversLicense\bin\Debug\net6.0-windows\DriversLicense.pdb
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.csproj.AssemblyReference.cache
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.Form1.resources
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.csproj.GenerateResource.cache
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.GeneratedMSBuildEditorConfig.editorconfig
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.AssemblyInfoInputs.cache
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.AssemblyInfo.cs
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.csproj.CoreCompileInputs.cache
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.dll
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\refint\DriversLicense.dll
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.pdb
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\DriversLicense.genruntimeconfig.cache
+X:\CODING\VSProjects\DriversLicense\obj\Debug\net6.0-windows\ref\DriversLicense.dll
