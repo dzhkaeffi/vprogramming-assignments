@@ -1,0 +1,17 @@
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.csproj.AssemblyReference.cache
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.Form1.resources
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.csproj.GenerateResource.cache
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.GeneratedMSBuildEditorConfig.editorconfig
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.AssemblyInfoInputs.cache
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.AssemblyInfo.cs
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.csproj.CoreCompileInputs.cache
+X:\CODING\VSProjects\mostfreqchar\bin\Debug\net6.0-windows\mostfreqchar.exe
+X:\CODING\VSProjects\mostfreqchar\bin\Debug\net6.0-windows\mostfreqchar.deps.json
+X:\CODING\VSProjects\mostfreqchar\bin\Debug\net6.0-windows\mostfreqchar.runtimeconfig.json
+X:\CODING\VSProjects\mostfreqchar\bin\Debug\net6.0-windows\mostfreqchar.dll
+X:\CODING\VSProjects\mostfreqchar\bin\Debug\net6.0-windows\mostfreqchar.pdb
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.dll
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\refint\mostfreqchar.dll
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.pdb
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\mostfreqchar.genruntimeconfig.cache
+X:\CODING\VSProjects\mostfreqchar\obj\Debug\net6.0-windows\ref\mostfreqchar.dll
