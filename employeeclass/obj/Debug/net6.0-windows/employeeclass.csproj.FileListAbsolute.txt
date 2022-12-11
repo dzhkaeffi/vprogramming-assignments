@@ -1,0 +1,17 @@
+X:\CODING\VSProjects\employeeclass\bin\Debug\net6.0-windows\employeeclass.exe
+X:\CODING\VSProjects\employeeclass\bin\Debug\net6.0-windows\employeeclass.deps.json
+X:\CODING\VSProjects\employeeclass\bin\Debug\net6.0-windows\employeeclass.runtimeconfig.json
+X:\CODING\VSProjects\employeeclass\bin\Debug\net6.0-windows\employeeclass.dll
+X:\CODING\VSProjects\employeeclass\bin\Debug\net6.0-windows\employeeclass.pdb
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.csproj.AssemblyReference.cache
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.Form1.resources
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.csproj.GenerateResource.cache
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.GeneratedMSBuildEditorConfig.editorconfig
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.AssemblyInfoInputs.cache
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.AssemblyInfo.cs
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.csproj.CoreCompileInputs.cache
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.dll
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\refint\employeeclass.dll
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.pdb
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\employeeclass.genruntimeconfig.cache
+X:\CODING\VSProjects\employeeclass\obj\Debug\net6.0-windows\ref\employeeclass.dll
