@@ -1,0 +1,17 @@
+X:\CODING\VSProjects\namesearch\bin\Debug\net6.0-windows\namesearch.exe
+X:\CODING\VSProjects\namesearch\bin\Debug\net6.0-windows\namesearch.deps.json
+X:\CODING\VSProjects\namesearch\bin\Debug\net6.0-windows\namesearch.runtimeconfig.json
+X:\CODING\VSProjects\namesearch\bin\Debug\net6.0-windows\namesearch.dll
+X:\CODING\VSProjects\namesearch\bin\Debug\net6.0-windows\namesearch.pdb
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.csproj.AssemblyReference.cache
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.Form1.resources
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.csproj.GenerateResource.cache
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.GeneratedMSBuildEditorConfig.editorconfig
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.AssemblyInfoInputs.cache
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.AssemblyInfo.cs
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.csproj.CoreCompileInputs.cache
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.dll
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\refint\namesearch.dll
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.pdb
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\namesearch.genruntimeconfig.cache
+X:\CODING\VSProjects\namesearch\obj\Debug\net6.0-windows\ref\namesearch.dll
