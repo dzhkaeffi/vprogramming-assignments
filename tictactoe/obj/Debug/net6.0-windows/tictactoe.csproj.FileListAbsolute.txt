@@ -1,0 +1,17 @@
+X:\CODING\VSProjects\tictactoe\bin\Debug\net6.0-windows\tictactoe.exe
+X:\CODING\VSProjects\tictactoe\bin\Debug\net6.0-windows\tictactoe.deps.json
+X:\CODING\VSProjects\tictactoe\bin\Debug\net6.0-windows\tictactoe.runtimeconfig.json
+X:\CODING\VSProjects\tictactoe\bin\Debug\net6.0-windows\tictactoe.dll
+X:\CODING\VSProjects\tictactoe\bin\Debug\net6.0-windows\tictactoe.pdb
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.csproj.AssemblyReference.cache
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.Form1.resources
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.csproj.GenerateResource.cache
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.AssemblyInfoInputs.cache
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.AssemblyInfo.cs
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.csproj.CoreCompileInputs.cache
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.dll
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\refint\tictactoe.dll
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.pdb
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\tictactoe.genruntimeconfig.cache
+X:\CODING\VSProjects\tictactoe\obj\Debug\net6.0-windows\ref\tictactoe.dll
