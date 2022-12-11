@@ -27,7 +27,7 @@ namespace employeeclass
             worker.name = name_txtbox.Text;
             worker.emp_id = int.Parse(emp_id_txtbox.Text);
             worker.Shift = (Shift)Enum.Parse(typeof(Shift), shift_txtbox.Text);
-            worker.payRate = float.Parse(payrate_txtbox.Text);
+            worker.payRate = float.Parse(payrate_txtbox.Text); // use commas instead of period. EX. 6,5 instead of 6.5
             name_label.Text = worker.name;
             emp_id_label.Text = worker.emp_id.ToString();
             shift_label.Text = worker.Shift.ToString();
