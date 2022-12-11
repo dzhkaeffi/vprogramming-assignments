@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "X:\\CODING\\VSProjects\\petClass\\petClass.csproj": {}
+  },
+  "projects": {
+    "X:\\CODING\\VSProjects\\petClass\\petClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\CODING\\VSProjects\\petClass\\petClass.csproj",
+        "projectName": "petClass",
+        "projectPath": "X:\\CODING\\VSProjects\\petClass\\petClass.csproj",
+        "packagesPath": "C:\\Users\\dzika\\.nuget\\packages\\",
+        "outputPath": "X:\\CODING\\VSProjects\\petClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dzika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

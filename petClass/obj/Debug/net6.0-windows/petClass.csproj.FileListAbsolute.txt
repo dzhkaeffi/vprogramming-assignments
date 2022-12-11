@@ -1,0 +1,17 @@
+X:\CODING\VSProjects\petClass\bin\Debug\net6.0-windows\petClass.exe
+X:\CODING\VSProjects\petClass\bin\Debug\net6.0-windows\petClass.deps.json
+X:\CODING\VSProjects\petClass\bin\Debug\net6.0-windows\petClass.runtimeconfig.json
+X:\CODING\VSProjects\petClass\bin\Debug\net6.0-windows\petClass.dll
+X:\CODING\VSProjects\petClass\bin\Debug\net6.0-windows\petClass.pdb
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.csproj.AssemblyReference.cache
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.Form1.resources
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.csproj.GenerateResource.cache
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.GeneratedMSBuildEditorConfig.editorconfig
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.AssemblyInfoInputs.cache
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.AssemblyInfo.cs
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.csproj.CoreCompileInputs.cache
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.dll
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\refint\petClass.dll
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.pdb
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\petClass.genruntimeconfig.cache
+X:\CODING\VSProjects\petClass\obj\Debug\net6.0-windows\ref\petClass.dll
